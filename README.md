@@ -77,11 +77,10 @@ This software is protected under a proprietary license with SEVERE RESTRICTIONS.
 
 **AUTHORIZED USE ONLY:**
 - Access and usage rights are granted EXCLUSIVELY by Jeremy or Evan
-- Written permission MUST be obtained PRIOR to ANY interaction with this codebase
 - All rights reserved. NO IMPLIED LICENSES granted under any circumstance
 
 **VIOLATIONS WILL BE PROSECUTED TO THE FULLEST EXTENT OF THE LAW**
 
-To request authorization, contact Jeremy or Evan directly. If you're reading this without explicit permission, you're already in violation.
+To request authorization, contact Jeremy or Evan directly.
 
 ---
